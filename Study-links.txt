@@ -1,0 +1,26 @@
+CSS FLEXBOX::
+---------------
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+JAVASCRIPT:
+-----------
+https://javascript.info/
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript
+
+Twitter Bot 
+-----------
+https://hackernoon.com/build-a-simple-twitter-bot-with-node-js-in-just-38-lines-of-code-ed92db9eb078
+
+Asynchronous Concept in JavaScript:
+---------------------------
+https://scotch.io/courses/10-need-to-know-javascript-concepts/callbacks-promises-and-async
+
+Fullstack Courses Top 5:
+------------------------
+https://medium.com/@bmorelli25/5-best-udemy-courses-for-learning-full-stack-web-development-30590d192a7c
+
+jquery:
+------------
+http://youmightnotneedjquery.com/
+
+
